@@ -1,4 +1,4 @@
-**# Biblioteca Legal Colombiana — Decreto 1368 de 2026
+# Biblioteca Legal Colombiana — Decreto 1368 de 2026
 
 **Por el cual se levanta la suspensión general de los permisos para el porte de armas de fuego y se dictan otras disposiciones.**
 
@@ -55,7 +55,7 @@ Paleta propia, distinta de los demás tomos de la biblioteca: carbón `#10151a`,
 
 ## 🌐 Despliegue
 
-Repositorio: `haroldco45/Decreto-1368-de-2026-Porte-de-armas-de-fuego`
+Repositorio: `haroldco45/decreto-1368-de-2026-porte-de-armas-de-fuego`
 
 Archivos en la raíz del repo (sin subcarpetas):
 
@@ -68,7 +68,7 @@ README.md
 
 Publicación: Settings -> Pages -> Source: Deploy from a branch -> Branch: `main` / `(root)` -> Save.
 
-URL publica: `https://haroldco45.github.io/Decreto-1368-de-2026-Porte-de-armas-de-fuego/`
+URL publica: `https://haroldco45.github.io/decreto-1368-de-2026-porte-de-armas-de-fuego/`
 
 ---
 
@@ -82,4 +82,4 @@ El volumen no solicita cédula, número de permiso ni datos del arma. Las respue
 
 **Desarrollada por Vibras Positivas HM — Derechos de Autor Reservados**
 Biblioteca Legal Colombiana · Caucasia, Antioquia, Colombia
-Contenido educativo elaborado a partir del texto oficial del decreto. No constituye asesoría jurídica.**
+Contenido educativo elaborado a partir del texto oficial del decreto. No constituye asesoría jurídica.
